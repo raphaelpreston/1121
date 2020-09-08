@@ -21,7 +21,7 @@ The Sings currently have 25 members... let's figure it out!
 ## Pretty Graph
 In the graph below, we can see the interesting trends in the data. Wow, so cool!
 
-<img src="https://raphaelpreston.com/1121.png" width=1500>
+<img src="https://github.com/raphaelpreston/1121/blob/master/1121graph.png" width=1500>
 
 ## The Code
 ```python
